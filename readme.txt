@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 Git in dev.
 
 dsa
+Creating a new branch is quick & simple.
